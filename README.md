@@ -56,9 +56,9 @@ pip install numpy pandas opencv-python cvzone matplotlib tensorflow pillow sciki
 
 ## Usage
 
-1. Run the GUI application:
+1. Run the application:
 ```bash
-python GUI.py
+python main.py
 ```
 
 2. The application window will open with options for:
