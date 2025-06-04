@@ -1,0 +1,5 @@
+IMG_HEIGHT = 30
+IMG_WIDTH = 30
+CHANNELS = 3
+MODEL_PATH = "model.h5"
+DISPLAY_DIR = "Display"
